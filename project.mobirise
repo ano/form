@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Forms",
+    "name": "Form",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -38,8 +38,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Automate",
-        "meta_descr": "Automation and Integration tool for FFA",
+        "title": "Form",
+        "meta_descr": "Form tool for Building Online Application",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -141,7 +141,7 @@
           },
           "title": "Form Builder",
           "text": "The form builder lets you drag and drop various field elements onto a form. Use it to design and build online forms for data collection.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.machform.com/features-form-builder\" data-toolbar=\"-mbrBtnMove\">Learn More</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"index.html#msg-box5-a\" data-toolbar=\"-mbrBtnMove\">Approval Workflow</a>",
           "_tags": [
             "Theme"
           ],
@@ -193,7 +193,7 @@
           },
           "title": "Approval Builder",
           "text": "The approval builder lets you design forms that require some sort of approval. You can customise the approval process however you want. When a user submits a form, the approvers will be notified and prompted to login and approve/deny the submitted entry.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://help.machform.com/m/using-machform/l/763652-approval-workflow-overview\" data-toolbar=\"-mbrBtnMove\">Learn More</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"index.html#msg-box5-g\" data-toolbar=\"-mbrBtnMove\">Logic Builder</a>",
           "_tags": [
             "Theme"
           ],
@@ -245,7 +245,7 @@
           },
           "title": "Logic Builder",
           "text": "The Logic Builder lets you build logic into the form without coding. This allows you to design smart forms that&nbsp;perform tasks like to show/hide fields, send different emails, communicate with other applications etc.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.machform.com/features-fields#conditional-logic\" data-toolbar=\"-mbrBtnMove\">Learn More</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"index.html#msg-box5-b\" data-toolbar=\"-mbrBtnMove\">Entries Manager</a>",
           "_tags": [
             "Theme"
           ],
@@ -297,7 +297,7 @@
           },
           "title": "Entries Manager",
           "text": "The entries manager lets you collect, store and manage data that a form has captured. You can filter, edit, delete, approve and export entries using the form manager.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.machform.com/features-entries\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learn More</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"index.html#header2-7\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Other Tools</a> ",
           "_tags": [
             "Theme"
           ],
@@ -366,7 +366,7 @@
           "text2": "(677) 21124 EXT 267",
           "text3": "1 FFA RD, Honiara, Solomon Islands&nbsp;",
           "text4": "ano.tisam@<a href=\"mailto:ano.tisam@ffa.int\">f</a>fa.int",
-          "text5": "<li>Automate</li><li><a class=\"text-white\" href=\"https://ano.github.io/workflow/\">Workflow</a></li><li><a class=\"text-white\" href=\"#\" style=\"font-size: 0.875rem; background-color: rgb(46, 46, 46);\">I</a><span style=\"font-size: 0.875rem;\">nvoice</span><br></li><li><a class=\"text-white\" href=\"#\">F</a>orms</li>",
+          "text5": "<li><a href=\"https://ano.github.io/automate/\">Automate</a></li><li><a class=\"text-primary\" href=\"https://ano.github.io/workflow/\">Workflow</a></li><li><span style=\"font-size: 0.875rem;\"><a href=\"https://ano.github.io/invoice/\">Invoice</a></span><br></li><li><a class=\"text-primary\" href=\"https://ano.github.io/form/\">Forms</a></li>",
           "text6": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Contact</b></span></font><br>Developer: Ano Tisam<br><br><br><strong>Address</strong><br>1 FFA Road<br>Honiara, Guadacanal <br>Solomon Islands",
           "form": {
             "title": "MESSAGE",
