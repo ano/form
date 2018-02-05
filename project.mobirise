@@ -88,7 +88,7 @@
             }
           },
           "title": "Forms",
-          "text": "Forms is a tool that lets you design online forms. <br>With it you can easily convert your forms and make them available online without needing to know how to write any code.",
+          "text": "Forms is a tool that lets you digitise you paper forms. <br>With it you can easily convert your forms and make them available online without needing to know how to write any code.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.dropbox.com/s/oh0g4jx5fs4auq2/Install-FFA-Form-System-win32-x64-1.0.0-win32-x64.exe?dl=1\" data-toolbar=\"-mbrBtnMove\">Download for Windows</a> <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"index.html#msg-box5-8\" data-toolbar=\"-mbrBtnMove\">Learn More</a>",
           "_tags": [
             "Theme"
