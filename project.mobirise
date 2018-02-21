@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Form",
-    "currentPage": "index.html",
+    "currentPage": "tutorials.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -545,7 +545,7 @@
           },
           "title": "1. Design Form",
           "text": "In this tutorial we use the <b>form builder</b> to design a simple message form to capture data. ",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Send Data</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"tutorials.html#msg-box7-k\" data-toolbar=\"-mbrBtnMove\">Send Data</a>",
           "_tags": [
             "Theme"
           ],
@@ -600,7 +600,7 @@
           },
           "title": "2. Send Data",
           "text": "In this tutorial we use <b>website notification</b> to send data to an external website called Zapier for automation.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Send Alerts</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"tutorials.html#msg-box7-o\" data-toolbar=\"-mbrBtnMove\">Send Alerts</a>",
           "_tags": [
             "Theme"
           ],
@@ -655,7 +655,7 @@
           },
           "title": "3. Send Alerts",
           "text": "Use <b>email notifications</b> to send automated email alerts to people.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Configure Workflows</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"tutorials.html#msg-box7-p\" data-toolbar=\"-mbrBtnMove\">Configure Workflows</a>",
           "_tags": [
             "Theme"
           ],
@@ -710,7 +710,7 @@
           },
           "title": "4. Configure Workflows",
           "text": "Enable and then configure approval workflows for users.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Link Forms</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">Link Forms</a>",
           "_tags": [
             "Theme"
           ],
