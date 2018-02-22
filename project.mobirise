@@ -532,7 +532,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "src": "https://www.youtube.com/embed/QgBtDuldjl8",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -587,7 +587,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "src": "https://www.youtube.com/embed/QgBtDuldjl8?ecver=2",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -709,7 +709,7 @@
             }
           },
           "title": "4. Configure Workflows",
-          "text": "Enable and then configure approval workflows for users.",
+          "text": "Configure and enable approval workflows for users.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">Link Forms</a>",
           "_tags": [
             "Theme"
